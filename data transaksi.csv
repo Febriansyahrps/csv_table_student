@@ -1,0 +1,5 @@
+Transaction_ID,Customer_Name,Product_ID,Product_Price,Quantity,Total_Sales
+1,John Doe,P001,25000,3,75000
+2,Jane Smith,P002,15000,2,30000
+3,None,P001,None,4,None
+4,Adam West,None,50000,None,None
